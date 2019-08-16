@@ -1,3 +1,1 @@
-Mean Stack Project
-
-Orel, Yelena and Dvir
+full stack mean project
